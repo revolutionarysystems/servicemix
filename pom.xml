@@ -5,7 +5,7 @@
 
 	<groupId>uk.co.revsys.servicemix</groupId>
 	<artifactId>servicemix</artifactId>
-	<version>4.5.2-SNAPSHOT</version>
+	<version>4.5.2</version>
 	<packaging>pom</packaging>
 
 	<name>Servicemix</name>
